@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "AFFOGATO",
+          "price": 79.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "AMERICANO",
+          "price": 99.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "CAFFÈ LATTE",
+          "price": 119.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe3.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "CAPPUCCINO",
+          "price": 249.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe4.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "COLD BREW COFFEE",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe5.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "ESPRESSO",
+          "price": 349.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe6.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "FLAT WHITE",
+          "price": 49.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe7.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "IRISH COFFEE",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./img/products/coffe8.jpg" } } }
+        }
+      }
+    ]
+  }
